@@ -1,0 +1,89 @@
+<livraria>
+  <livro>
+    <titulo>Iaiá Garcia</titulo>
+    <autor>Machado de Assis</autor>
+    <ano>1920</ano>
+    <preco>1.30</preco>
+    <data>2015-1-1</data>
+  </livro>
+  <livro>
+    <titulo>O Senhor dos Anéis</titulo>
+    <autor>Fulano de Tal</autor>
+    <ano>1980</ano>
+    <preco>1.30</preco>
+    <custo>10</custo>
+    <data>2009-12-29</data>
+  </livro>
+  <livro>
+    <titulo>Iaiá Garcia</titulo>
+    <autor>Machado de Assis</autor>
+    <ano>1920</ano>
+    <preco>1.30</preco>
+    <custo>10</custo>
+    <data>2008-5-18</data>
+  </livro>
+  <livro>
+    <titulo>Sistemas Operacionais Distribuídos</titulo>
+    <autor>Silberschatz</autor>
+    <ano>2005</ano>
+    <preco>80.00</preco>
+    <custo>10</custo>
+    <data>2010-9-20</data>
+  </livro>
+  <livro>
+    <titulo>Sistemas de Banco de Dados</titulo>
+    <autor>Silberschatz</autor>
+    <ano>2005</ano>
+    <preco>80.00</preco>
+    <custo>10</custo>
+    <data>'01/01/2015'</data>
+  </livro>
+  <livro>
+    <titulo>Harry Potter</titulo>
+    <autor>J K. Rowling</autor>
+    <ano>2005</ano>
+    <preco>29.99</preco>
+    <custo>10</custo>
+    <data>2009-7-7</data>
+  </livro>
+  <livro>
+    <titulo>XQuery Kick Start</titulo>
+    <autor>Vaidyanathan Nagarajan</autor>
+    <ano>2003</ano>
+    <preco>49.99</preco>
+    <custo>10</custo>
+    <data>2016-3-3</data>
+  </livro>
+  <livro>
+    <titulo>Learning XML</titulo>
+    <autor>Erik T. Ray</autor>
+    <ano>2003</ano>
+    <preco>39.95</preco>
+    <custo>10</custo>
+    <data>2007-4-30</data>
+  </livro>
+  <livro>
+    <titulo>Principios de BD Distribuidos</titulo>
+    <autor>Ozsu, M.; Valduriez, P.</autor>
+    <ano>2003</ano>
+    <preco>155.25</preco>
+    <data>2014-9-22</data>
+    <custo>10</custo>
+  </livro>
+  <livro>
+    <titulo>Sistemas Operacionais</titulo>
+    <autor>Tannenbal</autor>
+    <ano>2009</ano>
+    <preco>289.28</preco>
+    <custo>10</custo>
+    <data>2016-9-9</data>
+  </livro>
+  <livro>
+    <titulo>Redes de Computadores</titulo>
+    <autor>Tannenbal</autor>
+    <ano>2008</ano>
+    <preco>99.00</preco>
+    <custo>10</custo>
+    <data>2017-11-25</data>
+  </livro>
+</livraria>

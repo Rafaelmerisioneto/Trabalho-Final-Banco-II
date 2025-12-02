@@ -1,0 +1,69 @@
+<dados>
+  <pessoa>
+    <cpf>1000</cpf>
+    <nome>Mariana da Silva</nome>
+    <endereco>
+      <rua>Rua dos Coqueiros</rua>
+      <numero>2300</numero>
+      <complemento>E</complemento>
+      <cidade>Chapecó</cidade>
+      <uf>SC</uf>
+    </endereco>
+    <telefone>33228876</telefone>
+    <area>Exatas e da Terra</area>
+    <descricao>Ciência da Computação</descricao>
+    <semestre>20092</semestre>
+    <idade>20</idade>
+  </pessoa>
+  <pessoa>
+    <cpf>1001</cpf>
+    <nome>Paulo Pereira</nome>
+    <endereco>
+      <rua>Rua Fernando Machado</rua>
+      <numero>600</numero>
+      <complemento>S</complemento>
+      <cidade>Chapecó</cidade>
+      <uf>SC</uf>
+    </endereco>
+    <telefone>33218080</telefone>
+    <area>Exatas e da Terra</area>
+    <descricao>Sistemas de Informação</descricao>
+    <semestre>20101</semestre>
+    <area>Exatas e da Terra</area>
+    <descricao>Matemática</descricao>
+    <semestre>20081</semestre>
+    <idade>19</idade>
+  </pessoa>
+  <pessoa>
+    <cpf>1002</cpf>
+    <nome>Ana Maria Dias</nome>
+    <endereco>
+      <rua>Rua Nereu Ramos</rua>
+      <numero>1450</numero>
+      <complemento>D</complemento>
+      <cidade>São Lourenço do Oeste</cidade>
+      <uf>SC</uf>
+    </endereco>
+    <telefone>34784545</telefone>
+    <area>Exatas e da Terra</area>
+    <descricao>Ciência da Computação</descricao>
+    <semestre>20091</semestre>
+    <idade>28</idade>
+  </pessoa>
+  <pessoa>
+    <cpf>1003</cpf>
+    <nome>Veronica Gomes</nome>
+    <endereco>
+      <rua>Rua Nereu Ramos</rua>
+      <numero>222</numero>
+      <complemento>D</complemento>
+      <cidade>Xaxim</cidade>
+      <uf>SC</uf>
+    </endereco>
+    <telefone>33222121</telefone>
+    <area>Exatas e da Terra</area>
+    <descricao>Física</descricao>
+    <semestre>20091</semestre>
+    <idade>21</idade>
+  </pessoa>
+</dados>

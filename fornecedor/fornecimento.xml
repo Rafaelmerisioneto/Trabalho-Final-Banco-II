@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<dados>
+<fornecimento Data="2025-12-01">
+<Cod_Fornec>F1</Cod_Fornec>
+<Cod_Peca>P1</Cod_Peca>
+<Cod_Proj>J1</Cod_Proj>
+<Quantidade>200</Quantidade>
+</fornecimento>
+<fornecimento Data="2025-12-01">
+<Cod_Fornec>F1</Cod_Fornec>
+<Cod_Peca>P1</Cod_Peca>
+<Cod_Proj>J4</Cod_Proj>
+<Quantidade>700</Quantidade>
+</fornecimento>
+<fornecimento Data="2025-12-01">
+<Cod_Fornec>F2</Cod_Fornec>
+<Cod_Peca>P3</Cod_Peca>
+<Cod_Proj>J1</Cod_Proj>
+<Quantidade>400</Quantidade>
+</fornecimento>
+<fornecimento Data="2025-12-01">
+<Cod_Fornec>F2</Cod_Fornec>
+<Cod_Peca>P3</Cod_Peca>
+<Cod_Proj>J2</Cod_Proj>
+<Quantidade>200</Quantidade>
+</fornecimento>
+</dados>

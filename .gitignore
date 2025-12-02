@@ -1,0 +1,10 @@
+# Ignorar a pasta do ambiente virtual do Python
+venv/
+.venv/
+
+# Ignorar arquivos de cache e compilação do Python
+__pycache__/
+*.pyc
+
+# Ignorar arquivos específicos do editor (ex: VS Code)
+.vscode
