@@ -6,5 +6,5 @@ venv/
 __pycache__/
 *.pyc
 
-# Ignorar arquivos específicos do editor (ex: VS Code)
-.vscode
+# Se o GitHub adicionou alguma linha, mantenha-a abaixo:
+# .DS_Store
