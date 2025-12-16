@@ -1,0 +1,18 @@
+[
+    {
+        "idCliente": "1",
+        "idade": 30,
+        "interesses": [
+            "tecnologia",
+            "jogos"
+        ]
+    },
+    {
+        "idCliente": "2",
+        "idade": 25,
+        "interesses": [
+            "esportes",
+            "viagens"
+        ]
+    }
+]
